@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(218, 179, 255);
+}
+body {
+    background-color: rgb(140, 247, 255);
+    width: 500px;
+    margin: 0 auto;
+    border: 10px solid aliceblue;
+    padding: 5px;
+}
+.bold {
+    font-weight: bold;
+}
+p {
+    text-indent: 3%;
+}
+#Daniel {
+    text-align: center;
+}
